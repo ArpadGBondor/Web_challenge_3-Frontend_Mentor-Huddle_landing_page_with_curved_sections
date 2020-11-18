@@ -1,0 +1,2 @@
+# Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections
+HTML5, CSS3, Bootstrap4
