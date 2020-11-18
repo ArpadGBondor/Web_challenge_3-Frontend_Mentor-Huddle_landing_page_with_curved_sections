@@ -1,3 +1,7 @@
+# [My Solution](https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/)
+
+------------------------------
+
 # Frontend Mentor - Huddle landing page with curved sections
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
