@@ -1,0 +1,16 @@
+:root{
+  /* Primary */
+  --custom-pink:hsl(322, 100%, 66%);
+  /* Neutral */
+  --custom-dark-cyan: hsl(192, 100%, 9%);
+  --custom-pale-blue: hsl(207, 100%, 98%);
+}
+
+/* ### Primary
+
+- Pink: hsl(322, 100%, 66%)
+
+### Neutral
+
+- Very Dark Cyan: hsl(192, 100%, 9%)
+- Very Pale Blue: hsl(207, 100%, 98%) */
